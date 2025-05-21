@@ -9,7 +9,7 @@ The main goal of this project is to visualize and analyze global data for better
 - Students and researchers in international development and economics
 - Policy makers and analysts
 - Data visualization enthusiasts
-  Dataset used <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/WorldData2023.xlsx">Summary</a>
+  Dataset used <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/WorldData2023.xlsx">Dataset</a>
 
 
 
@@ -66,6 +66,6 @@ The main goal of this project is to visualize and analyze global data for better
 
 ## Download the Dashboard
 
-<a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/worlddata2023.pbix">World Data 2023 </a>
+<a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/worlddata2023.pbix">World Data 2023 </a><br>
 <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/WorldData_Report.xlsx">Summary</a>
 
