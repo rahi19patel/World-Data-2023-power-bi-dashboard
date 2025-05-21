@@ -9,6 +9,8 @@ The main goal of this project is to visualize and analyze global data for better
 - Students and researchers in international development and economics
 - Policy makers and analysts
 - Data visualization enthusiasts
+  Dataset used <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/WorldData2023.xlsx">Summary</a>
+
 
 
 ##  Key Dashboard Features
@@ -41,11 +43,9 @@ The main goal of this project is to visualize and analyze global data for better
 
 | File Name              | Description |
 |------------------------|-------------|
-| `World data main.png`  | Overview dashboard with key global indicators |
-| `World data map.png`   | Total GDP by country with bubble map |
-| `World data area.png`  | GDP per capita, population, and urbanization overview |
-
-> *Note: If you have a `.pbix` file, you can upload it for full interaction.*
+| <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/World%20data%20main.png">World Data Main Dashboard</a>  | Overview dashboard with key global indicators |
+| <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/World%20data%20map.png">World Data Map</a>   | Total GDP by country with bubble map |
+| <a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/world%20data%20area.png">World Data Area </a>  | GDP per capita, population, and urbanization overview |
 
 
 ##  Tools & Technologies Used
@@ -64,4 +64,8 @@ The main goal of this project is to visualize and analyze global data for better
 ![Urbanization and GDP](./world%20data%20area.png)
 
 
+## Download the Dashboard
+
+<a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/worlddata2023.pbix">World Data 2023 </a>
+<a href="https://github.com/rahi19patel/World-Data-2023-power-bi-dashboard/blob/main/WorldData_Report.xlsx">Summary</a>
 
